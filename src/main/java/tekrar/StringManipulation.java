@@ -13,6 +13,8 @@ public class StringManipulation {
         v)En az bir tane rakam olsun
         vi) En az 1 sembol icermeli*/
 
+        String s= "asdf12324";
+
        
 
 
